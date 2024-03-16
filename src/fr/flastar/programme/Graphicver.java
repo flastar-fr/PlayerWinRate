@@ -99,7 +99,8 @@ public class Graphicver extends JFrame {
                         """
                                 Icon made by Flat Icons Design from www.flaticon.com
                                 Icon made by Assia Benkerroum from www.flaticon.com
-                                Icon made by feen from www.flaticon.com""",
+                                Icon made by feen from www.flaticon.com
+                                Some icons downloaded from koor.fr""",
                         "Credits",
                         JOptionPane.INFORMATION_MESSAGE));
         mnuHelp.add(mnContact);
@@ -155,7 +156,7 @@ public class Graphicver extends JFrame {
             try {
                 players = logicExecution.initProgram();
             } catch (Exception ex) {
-                ex.printStackTrace();
+                System.out.println(ex.getMessage());
             }
 
             assert players != null;
@@ -198,7 +199,7 @@ public class Graphicver extends JFrame {
                 try {
                     logicExecution.writeGameInfos();
                 } catch (Exception ex) {
-                    ex.printStackTrace();
+                    System.out.println(ex.getMessage());
                 }
             }
 

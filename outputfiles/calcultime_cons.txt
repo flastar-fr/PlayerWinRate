@@ -1,6 +1,6 @@
 Nombre de parties : 1000000
-Temps total : 6,30 s
-Temps copy : 1,499e-07 s / 0,150 s, 2,381%
-Temps game : 5,715e-06 s / 5,715 s, 90,762%
-Temps add : 2,502e-07 s / 0,250 s, 3,973%
-Temps progress : 5,324e-08 s / 0,053 s, 0,845%
+Temps total : 6,86 s
+Temps copy : 1,983e-07 s / 0,198 s, 2,893%
+Temps game : 6,125e-06 s / 6,125 s, 89,334%
+Temps add : 3,213e-07 s / 0,321 s, 4,686%
+Temps progress : 5,465e-08 s / 0,055 s, 0,797%
