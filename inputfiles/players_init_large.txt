@@ -1,0 +1,14 @@
+mage, flastar, 20, 5, 3
+swordman, flastou, 20, 1, 1
+warrior, Beta, 20, 3, 2, 3
+warrior, yVincent, 20, 0.5, 0.5, 3
+mage, _4nonymous_, 20, 0.1, 0.1
+swordman, Impostor, 17, 3, 2
+mage, Kaeios, 20, 4, 5
+warrior, AntarticaFr, 20, 5, 4
+mage, AL3X, 20, 3, 3
+swordman, FoxySnake, 20, 4, 3
+warrior, cocacolick, 20, 3, 5
+swordman, Ninnginni, 20, 3, 4
+ZimoX, 0, 0, 0
+DemonicPlayer, 69, 69, 69

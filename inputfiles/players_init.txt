@@ -1,0 +1,6 @@
+mage, flastar, 20, 5, 3
+swordman, flastou, 20, 1, 1
+warrior, Beta, 20, 3, 2, 1
+warrior, yVincent, 20, 0.5, 0.5, 1
+mage, _4nonymous_, 20, 0.1, 0.1
+swordman, Impostor, 17, 3, 2
