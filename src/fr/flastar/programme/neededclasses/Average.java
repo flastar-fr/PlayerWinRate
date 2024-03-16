@@ -1,6 +1,5 @@
 package fr.flastar.programme.neededclasses;
 
-import java.util.ArrayList;
 
 public class Average {
 
