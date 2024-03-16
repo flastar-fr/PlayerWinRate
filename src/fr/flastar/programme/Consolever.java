@@ -185,6 +185,7 @@ public class Consolever {
         }
 
         try (FileOutputStream fos = new FileOutputStream("outputfiles/calcultime_cons.txt")) {
+            fos.write((String.format("Nombre de parties : %d\n", LOOP).getBytes()));
             fos.write((String.format("Temps total : %.2f s\n", totalTime)).getBytes());
             fos.write(String.format("Temps copy : %.3e s / %.3f s, %.3f%%\n",
                     timeAverageCopy.calculAverage(), timeAverageCopy.getAddResult(),
